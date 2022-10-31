@@ -8,6 +8,6 @@ This kind of event annotation project could be a real breakthrough for the Footb
 - it could enable data from currently unexplored competitions (youth or semi-professional leagues for instance)
 - it could save time, effort and cost since event data is mostly collected manually
 
-This code does not aim at creating the most performing Deep Learning model, but shows the different mandatory steps, from video and frames preparation to model final prediction.
+This code does not aim at creating the most performing Deep Learning model, but shows the different mandatory steps, from video and frames preparation to final model prediction.
 
 Part of the methodology and the code comes from this publication from Pulkit Sharma : https://www.analyticsvidhya.com/blog/2019/09/step-by-step-deep-learning-tutorial-video-classification-python/#h2_1
