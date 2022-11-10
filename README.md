@@ -1,6 +1,7 @@
 # Bundesliga-data-shootout
 
-This repo is based on the Kaggle challenge 'DFL - Bundesliga Data Shootout' : https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout
+This repo is based on the Kaggle challenge 'DFL - Bundesliga Data Shootout' : https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout.
+You can apply this code to the data available on the Kaggle page.
 
 The objective is to train a video classifier able to detect football match events (play / challenge / throw-in), thanks to full Bundesliga match videos provided by the league. 
 
